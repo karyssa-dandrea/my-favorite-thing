@@ -1,0 +1,22 @@
+body {
+    background-color: #a69eb0;
+    font-family: 'Maven Pro', sans-serif;
+    
+    
+    
+}
+
+h1, h2 {
+    font-family: 'Courgette', cursive;
+    line-height: 1.4;
+    color: #18392b; 
+}
+
+h1:hover {
+    color: #49796b; 
+}
+
+h3 {
+    color: #011f4b;
+    font-family: 'Sarabun', sans-serif;
+}
